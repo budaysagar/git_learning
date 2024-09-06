@@ -6,4 +6,5 @@ This is in branch graphics
 Now I am making the first change in file1
 This is from branch design
 >>>>>>> design
-This is for branch software 
+This is for branch software
+This is for push request
