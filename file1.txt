@@ -1,3 +1,8 @@
 This is file number 1
 Written by Uday Sagar
+<<<<<<< HEAD
 This is in branch graphics
+=======
+Now I am making the first change in file1
+This is from branch design
+>>>>>>> design
